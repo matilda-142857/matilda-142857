@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Matilda</h1>
-<h3 align="center">Web designer and software developer (currently located in Paramus, NJ)</h3>
+<h3 align="center">Web designer and software developer (currently located in San Diego, CA)</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200"/>
